@@ -1,6 +1,7 @@
-# Airbnb JavaScript Style Guide() {
+# Natero JavaScript (ES6) Style Guide() {
 
-*Keeping our JavaScript more consistent*
+*Keeping our JavaScript more consistent.*
+*Use Airbnb lint config files.*
 
 [For the ES5-only guide click here](es5/).
 
